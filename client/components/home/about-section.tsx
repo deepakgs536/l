@@ -20,7 +20,7 @@ export const AboutSection = () => {
             <div className="absolute inset-0 flex items-center justify-center">
               <img
           src='../../../public/images/profileImage.jpg'
-          alt={`thumbnail`}
+          alt={`Profile Image`}
           className="h-full w-full object-cover transition-all duration-700 group-hover:scale-105"
         />
             </div>
