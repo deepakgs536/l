@@ -19,7 +19,7 @@ export const AboutSection = () => {
             <div className="absolute inset-10 rounded-3xl border border-border/60" />
             <div className="absolute inset-0 flex items-center justify-center">
               <img
-          src='../../../public/images/profileImage.jpg'
+          src='https://res.cloudinary.com/dn2jwfo0s/image/upload/v1759938105/profileImage_djuenh.jpg'
           alt={`Profile Image`}
           className="h-full w-full object-cover transition-all duration-700 group-hover:scale-105"
         />
